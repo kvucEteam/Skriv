@@ -1,0 +1,655 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"question",
+				"question_min"
+			],
+			[
+				"ques",
+				"questions_Array"
+			],
+			[
+				"col",
+				"col-xs-12"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"sco",
+				"scoreToLMS"
+			],
+			[
+				"tet",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"read",
+				"read_feed"
+			],
+			[
+				"runde",
+				"runde_sec"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"txt",
+				"txt_1"
+			],
+			[
+				"content",
+				"content"
+			],
+			[
+				"me",
+				"medkursister"
+			],
+			[
+				"get",
+				"getScore"
+			],
+			[
+				"face",
+				"face_box"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"spro",
+				"spro_Array"
+			],
+			[
+				"komp",
+				"komp_Array"
+			],
+			[
+				"fort",
+				"fort_Array"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"alert",
+				"alertBox"
+			],
+			[
+				"clone",
+				"cloned_Array"
+			],
+			[
+				"a",
+				"alle_textdata_Array"
+			],
+			[
+				"alle",
+				"alle_textdata_Array"
+			],
+			[
+				"array",
+				"array_1"
+			],
+			[
+				"obj",
+				"objekID"
+			],
+			[
+				"top",
+				"topmargin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "knapper.html",
+			"settings":
+			{
+				"buffer_size": 891,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "functions.js",
+			"settings":
+			{
+				"buffer_size": 4110,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n.menu_btn {\n    color: green;\n}\n.btn_left {\n    background-color: #000;\n    border-radius: 10px 0 0 10px;\n    float: left;\n    height: 65px;\n    width: 32px;\n}\n.btn_right {\n    background-color: #f6f6f6;\n    border-radius: 0 10px 10px 0;\n    float: left;\n    height: 65px;\n    width: 136px;\n    cursor: pointer;\n}\n.txt_left {\n    color: white;\n    margin-left: 14px;\n    margin-top: 20px;\n}\n.txt_right {\n    color: black;\n    margin-left: 17px;\n    margin-top: 15px;\n}\n.btn_right_active {\n    background-color: #f0e80e;\n    cursor: pointer;\n}\n\n.btn_right_hover {\n    background-color: #f0e80e;\n    cursor: pointer;\n}\n",
+			"file": "btn.css",
+			"file_size": 449,
+			"file_write_time": 130602935550000000,
+			"settings":
+			{
+				"buffer_size": 618,
+				"line_ending": "Unix",
+				"name": ".menu_btn{"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/anders/Google Drive/SCORM/Basic Tin can/tc.js",
+		"/Users/anders/Google Drive/bootstrap/Bootstrap kodebørs/Bootstrap kodebørs - Eksamensangst/test.js",
+		"/Users/anders/Google Drive/bootstrap/Bootstrap kodebørs/Bootstrap kodebørs - Eksamensangst/styles.css",
+		"/Users/anders/Google Drive/bootstrap/Skrivenettet/index.html",
+		"/Users/anders/Google Drive/bootstrap/Bootstrap kodebørs/js/bootstrap.js",
+		"/Users/anders/Google Drive/bootstrap/Bootstrap kodebørs - Eksamensangst/css/bootstrap.css",
+		"/Users/anders/Google Drive/bootstrap/Bootstrap kodebørs/dansk1 copy.html",
+		"/Users/anders/Google Drive/bootstrap/Bootstrap kodebørs/dansk_test.html",
+		"/Users/anders/Google Drive/bootstrap/Bootstrap kodebørs/bootstrapskabelon copy.html",
+		"/Users/anders/Google Drive/Produktionsfællesskab/Læringsobjekter/Til tomas/Appelformer/appel.xml",
+		"/Users/anders/Google Drive/SCORM/clean SCORM driver test/scormcontent/page2.html",
+		"/Users/anders/Google Drive/Produktionsfællesskab/Læringsobjekter/Til tomas/Appelformer/mp.css",
+		"/Users/anders/Google Drive/SCORM/NewQuiz196b3d20-d73a-4d3f-91c5-a52a942a4465/assessment.json",
+		"/Users/anders/Google Drive/Produktionsfællesskab/Læringsobjekter/Til tomas/Appelformer/multiple_choice.html",
+		"/Users/anders/Google Drive/Produktionsfællesskab/Læringsobjekter/Til tomas/Appelformer/mp.js",
+		"/Users/anders/Google Drive/SCORM/NewQuiz196b3d20-d73a-4d3f-91c5-a52a942a4465/assessment.html",
+		"/Users/anders/Google Drive/Produktionsfællesskab/Læringsobjekter/Til tomas/markering_fortaller.html",
+		"/Users/anders/Google Drive/Produktionsfællesskab/Læringsobjekter/Til tomas/markering_fortaller.js",
+		"/Users/anders/Google Drive/Produktionsfællesskab/Læringsobjekter/Til tomas/Appelformer/Thumbs.db",
+		"/Users/anders/Google Drive/Produktionsfællesskab/Læringsobjekter/Til tomas/objekter_main.css",
+		"/Users/anders/Google Drive/Produktionsfællesskab/Læringsobjekter/Til tomas/markering_fortaller.css",
+		"/Users/anders/Google Drive/Produktionsfællesskab/Læringsobjekter/Til tomas/shared_functions.js",
+		"/Users/anders/Google Drive/Workshop 1/Jobopslag/produktionsleder_soges.html",
+		"/Users/anders/Google Drive/Workshop 1/Jobopslag/style.css",
+		"/Users/anders/Google Drive/Workshop 1/Jobopslag/produktionsleder.html",
+		"/Users/anders/Downloads/MDD_kompetencer.css",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/library/Video_player/video_spro/fort_3/functions.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/library/Video_player/ video_komp/fort_4/style.css",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/library/Video_player/ video_komp/fort_4/index.html",
+		"/Users/anders/Google Drive/Workshop 1/materialer.html",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/Tools/555 og ABC virker/text_l.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/library/listernew.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/Tools/555 og ABC virker/text_l.css",
+		"/Users/anders/Dropbox/Skaldyr Projekt/Apps/textarray",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/Tools/555 og ABC virker/555.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/Tools/555 og ABC virker/555.html",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/library/Video_player/video_fort/fort_4/index.html",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Billedsprog/4.3 tale/tale.html",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Billedsprog/4.3 tale/tale.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/forside/functions.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Fortæller/allehistorier/allehistorier.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Fortæller/fortaeller 1.3/markering_fortaller.css",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Fortæller/fortaeller 1.3/markering_fortaller.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/library/Video_player/video_fort/fort_1/style.css",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/library/Video_player/video_fort/fort_4/style.css",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/library/Video_player/video_fort/fort_4/functions.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/library/Video_player/video_fort/fort_3/functions.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/library/Video_player/video_fort/fort_1/functions.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/library/Video_player/video_fort/fort_2/functions.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Fortæller/fortaeller_5_begraenset_soegning/soeg.html",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Fortæller/fortaeller 1.3/markering_fortaller.html",
+		"/Users/anders/Downloads/SCORM_wrapper_test_SCORM12/index.html",
+		"/Users/anders/Downloads/SCORM_wrapper_test_SCORM12/SCORM_API_wrapper.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Fortæller/fortaeller 2.3/markering_fortaller.html",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Fortæller/fortaeller 2.3/markering_fortaller.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/library/shared_functions.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Komposition/5.3_eventyr_kortprosa/soeg.html",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Fortæller/allehistorier/allehistorier.html",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Komposition/4.3 modeller/style.css",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Komposition/4.3 modeller/scripts.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Komposition/3.3 scary stories/scary.css",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Komposition/4.3 modeller/index.html",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Billedsprog/5.3_eventyr_kortprosa/soeg.css",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Billedsprog/5.3_eventyr_kortprosa/soeg.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Komposition/3.3 scary stories/scary.html",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Billedsprog/5.3_eventyr_kortprosa/soeg.html",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Komposition/3.3 scary stories/scary.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Fortæller/allehistorier/allehistorier.css",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Fortæller/fortaeller_5_begraenset_soegning/soeg.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Fortæller/fortaeller_5_begraenset_soegning/soeg.css",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Komposition/2.3_media_res/sandt_falsk.html",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Komposition/2.3_media_res/sandt_falsk.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Komposition/2.3_media_res/sandt_falsk.css",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Fortæller/fortaeller 4.3 -Dumme mor/dumme_mor.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Billedsprog/4.3 tale/tale.css",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/forside/face_select.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Billedsprog/2.3_billedsprog_i_genrer/markering_fortaller.html",
+		"/Volumes/e-learning/Biblioteker/Interaktive Opgaver - Jquery mm/Glose Drag'N'Drop/functions.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Billedsprog/3.3_billedsprog_i_musik/musik.css",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/forside/face_data.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Billedsprog/3.3_billedsprog_i_musik/musik.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Billedsprog/3.3_billedsprog_i_musik/musik.html",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/library/objekter_main.css",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Fortæller/fortaeller_5_begraenset_soegning/markering_fortaller.css",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Fortæller/Ny mappe/soeg.css",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/forside/rage.css",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/forside/face_select.html",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/library/kursist_prod_lister.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/forside/forside.css",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Billedsprog/1.3_vendespil/style.css",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Billedsprog/2.3_billedsprog_i_genrer/markering_fortaller.css",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Billedsprog/2.3_billedsprog_i_genrer/txt_Arrays",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Billedsprog/2.3_billedsprog_i_genrer/markering_fortaller.js",
+		"/Users/anders/Google Drive/dansk AVU - local files (P drev kopi)/_Billedsprog/2.3_billedsprog_i_genrer/markering_fortaller2.js",
+		"/Users/anders/Google Drive/dansk AVU - local files/Komposition/fortaeller 1.3/draganddrop.html",
+		"/Users/anders/Google Drive/dansk AVU - local files/library/shared_functions.js",
+		"/Users/anders/Google Drive/dansk AVU - local files/Komposition/fortaeller 1.3/draganddrop.css",
+		"/Users/anders/Google Drive/dansk AVU - local files/library/listernew.js",
+		"/Users/anders/Google Drive/dansk AVU - local files/Tools/555 og ABC virker/text_l.js",
+		"/Users/anders/Google Drive/dansk AVU - local files/Komposition/fortaeller 1.3/draganddrop.js",
+		"/Users/anders/Google Drive/dansk AVU - local files/Tools/555 og ABC virker/laese_test.js",
+		"/Users/anders/Google Drive/dansk AVU - local files/Tools/555 og ABC virker/laese_test.css",
+		"/Users/anders/Google Drive/dansk AVU - local files/library/objekter_main.css",
+		"/Users/anders/Google Drive/dansk AVU - local files/Fortæller/fortaeller 1.3/markering_fortaller.html",
+		"/Users/anders/Google Drive/dansk AVU - local files/Tools/555 og ABC virker/laese_test.html",
+		"/Users/anders/Google Drive/dansk AVU - local files/library/lister.js",
+		"/Users/anders/Google Drive/dansk AVU - local files/forside/face_select.js",
+		"/Users/anders/Google Drive/dansk AVU - local files/Tools/555 og ABC virker/555.html",
+		"/Users/anders/Google Drive/dansk AVU - local files/Tools/555 og ABC virker/text_l.css",
+		"/Users/anders/Google Drive/dansk AVU - local files/Tools/555 og ABC virker/555.js",
+		"/Users/anders/Google Drive/dansk AVU - local files/555 og ABC virker/text_l.js",
+		"/Users/anders/Google Drive/dansk AVU - local files/555 og ABC virker/text_l.css",
+		"/Users/anders/Google Drive/dansk AVU - local files/555 og ABC virker/555.js",
+		"/Users/anders/Google Drive/dansk AVU - local files/555 og ABC virker/555.html",
+		"/Users/anders/Google Drive/dansk AVU - local files/Fortæller/fortaeller 2.3/markering_fortaller2.css"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h1",
+			"question_min",
+			"dropdown",
+			"butto",
+			"\"",
+			"-xs",
+			"grid",
+			"@grid",
+			"glyp",
+			".glyphi",
+			"span.gly",
+			"glyp",
+			"setscore",
+			"setsc",
+			");",
+			"pastilmas",
+			"<a href=\"/",
+			",",
+			"_",
+			"]",
+			"aa",
+			"oe",
+			"ae",
+			"0",
+			"9",
+			"8",
+			"7",
+			"6",
+			"5",
+			"4",
+			"3",
+			"2",
+			"1",
+			"],1",
+			"**_",
+			"[class mc_",
+			"mc_Array[class mc_",
+			"1000",
+			"total",
+			"big",
+			"timer",
+			"animer_maske",
+			"total",
+			"flyt",
+			"array",
+			"citat",
+			"getstories",
+			"big_",
+			"bigtimer",
+			"flytned",
+			"</div>\n                    <div class=\"kapitel\"><b>",
+			"correct",
+			"colo",
+			"fejl",
+			"rigti",
+			"correct_word",
+			"corre",
+			"back",
+			"tjek",
+			"white",
+			"citat",
+			"ændre",
+			"er gme",
+			"er",
+			"komp",
+			"fort",
+			"spro3",
+			"();\n",
+			"spro5",
+			"spro5\n",
+			">\n",
+			"contain",
+			"for",
+			"alert",
+			"fort",
+			"k_produktioner",
+			"fort",
+			"console.log",
+			"getscore",
+			"upda",
+			"alert",
+			"rand",
+			"tabel",
+			"fort",
+			"header",
+			"indre",
+			"ydre",
+			"true",
+			"false",
+			"\",",
+			"false",
+			"indre",
+			"ydre",
+			"]",
+			"[",
+			"global_liste_ID",
+			"global_liste_ID ",
+			"global_liste_ID",
+			"getItem",
+			"555",
+			"55",
+			"555",
+			"din scor",
+			"top",
+			"alert",
+			"baggrund",
+			"top2",
+			"top",
+			"back",
+			"crea",
+			"user",
+			"selected"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"'",
+			"<a href=\"http://publ.e-undervisning.net/",
+			", ",
+			"",
+			"å",
+			"ø",
+			"æ",
+			"",
+			",",
+			"",
+			"<br/></div>\n                    <div class=\"kapitel\"><b>",
+			"spro",
+			"komp4",
+			"spro3",
+			"kursist_input",
+			"komp",
+			"//console.log",
+			"no_bs",
+			"bs",
+			"no_bs",
+			"billedsprog",
+			"<br>\",",
+			"false",
+			"\", \"ydre\"],",
+			"[\"",
+			"selected_text"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "knapper.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 891,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								854,
+								854
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "functions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "btn.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								561,
+								561
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".menu_btn{",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "skriv.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

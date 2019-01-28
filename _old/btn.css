@@ -1,0 +1,42 @@
+
+
+.menu_btn {
+    color: green;
+}
+.btn_left {
+    background-color: #000;
+    border-radius: 10px 0 0 10px;
+    float: left;
+    height: 65px;
+    width: 32px;
+}
+.btn_right {
+    background-color: #f6f6f6;
+    border-radius: 0 10px 10px 0;
+    cursor: pointer;
+    float: left;
+    height: 65px;
+    margin-right: 10px;
+    width: 118px;
+}
+.txt_left {
+    color: white;
+    margin-left: 14px;
+    margin-top: 20px;
+}
+.txt_right {
+    color: black;
+    font-size: 13px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.btn_right_active {
+    background-color: #f0e80e;
+    cursor: pointer;
+}
+.btn_right_hover {
+    background-color: #f0e80e;
+    cursor: pointer;
+}
+
+*/
